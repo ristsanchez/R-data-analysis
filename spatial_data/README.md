@@ -1,5 +1,3 @@
-Assignment 4 Ricardo Sanchez
-
 Created: 10/19/21
 
 
