@@ -42,8 +42,6 @@ The most critical part of this analysis was mapping the values from the two diff
 
 This is a hard part since dataset will use different names for their variables. In this case. By inspecting the data, I was able to find the respective variable names used to map these values. The data contained the names of the boroughs and a number associated with it. Borough name was called _ **boro\_name** _ and its area code were called _ **boro\_code** _. This information was crucial for data preparation process.
 
-![](RackMultipart20220630-1-4r1fhk_html_ac3c685cf8188fd8.png)
-
 
 ![Scuffed screenshot of mapping process](mapping.jpg)
 _Figure 0.1. Finding variable names for mapping_
@@ -60,7 +58,6 @@ The engine used to map the markers seems to use quite an amount of memory. My co
 
 First, I wanted to go more in depth with the listings to see which specific neighborhood areas had Airbnb listings since the borough map data only contained 5 areas. After getting familiar with the mapping process, I tried to go into further detail and divide the map into neighborhoods instead of boroughs. I wanted to map the neighborhood entries in the Airbnb data to the geographic neighborhoods data from the city of New York. The problem was that for the most part the neighborhoods did not have the same name in both sets of data which left out many entries after mapping.
 
-![](RackMultipart20220630-1-4r1fhk_html_721e3151efa0e48.png)
 
 ![Listings by neighborhood](listings_by_neighborhood.jpg)
 _Figure 1. New York City Airbnb listings divided by neighborhoods._
@@ -69,14 +66,12 @@ As you can observe in the image above, some of the areas are in the 0-5 Airbnb l
 
 Next, I wanted to see the clusters of Listings to find out which area had the most concentration. On the next image we can see that most of the entries were centered where Manhattan meets Brooklyn, around the center area of the image.
 
-![](RackMultipart20220630-1-4r1fhk_html_83bdf391b52843a0.png)
 
 ![Listings by cluster](listings_by_cluster.jpg)
 _Figure 2. Airbnb listings by cluster_
 
 Alone in the Staten Island borough there were listed about 300+ places when zooming in. As it can be seen in the image below, most of these listings are close to the shore on the east side of the Island.
 
-![](RackMultipart20220630-1-4r1fhk_html_5f654f0eed404998.png)
 
 ![Staten Island](staten_island_listings.jpg)
 _Figure 3. Airbnb listings of Staten Island_
@@ -85,7 +80,6 @@ All the Airbnb listings grouped by borough. This was done by simply grabbing all
 
 The Airbnb listings are concentrated in 2 main areas, Manhattan, and Brooklyn, as it can be seen from the image below. The range selected for the intervals showcases how many listings the main areas have, but also, how little Staten Island has for example.
 
-![](RackMultipart20220630-1-4r1fhk_html_599e595224d26fb1.png)
 
 ![Listings by borough](listings_by_borough.jpg)
 _Figure 4. Airbnb listings by borough._
