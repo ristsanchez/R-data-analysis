@@ -68,13 +68,14 @@ Next, I wanted to see the clusters of Listings to find out which area had the mo
 
 ![](RackMultipart20220630-1-4r1fhk_html_83bdf391b52843a0.png)
 
+![Listings by cluster](listings_by_cluster.jpg)
 _Figure 2. Airbnb listings by cluster_
 
 Alone in the Staten Island borough there were listed about 300+ places when zooming in. As it can be seen in the image below, most of these listings are close to the shore on the east side of the Island.
 
 ![](RackMultipart20220630-1-4r1fhk_html_5f654f0eed404998.png)
 
-![Listings by borough](staten_island_listings.jpg)
+![Staten Island](staten_island_listings.jpg)
 _Figure 3. Airbnb listings of Staten Island_
 
 All the Airbnb listings grouped by borough. This was done by simply grabbing all the entries, removing all the entries with at least one missing field, such as missing price, name, etc. Then mapping them to the spatial data by using a left join function.
