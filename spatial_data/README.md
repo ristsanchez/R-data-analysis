@@ -60,6 +60,7 @@ First, I wanted to go more in depth with the listings to see which specific neig
 
 ![](RackMultipart20220630-1-4r1fhk_html_721e3151efa0e48.png)
 
+![Listings by neighborhood](listings_by_neighborhood.jpg)
 _Figure 1. New York City Airbnb listings divided by neighborhoods._
 
 As you can observe in the image above, some of the areas are in the 0-5 Airbnb listings category (meaning there are no listings). This doesn&#39;t match what the actual data is. So, this process was stopped since the data preparation for this to work would involve manually changing names of the Airbnb listing to match the names of the geographic data. Other alternative would be writing an algorithm that detects similar names and use those, but in the end, it would cost too much time.
