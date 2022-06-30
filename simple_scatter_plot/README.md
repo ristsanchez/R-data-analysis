@@ -8,7 +8,7 @@ With the advancements of technology, these types of problems accumulate differen
 
 **Data Understanding**
 
-The data used in this study is obtained from the University Medical Center, Institute of Oncology, Ljubljana, Yugoslavia. The data set obtained from the website contains different types of attributes and a total of 286 entries. Some of the information about these attributes can be found at the website referenced below. For this study, only 5 of those attributes were considered, namely:
+The data used in this study is obtained from the University Medical Center, Institute of Oncology, Ljubljana, Yugoslavia. The data set obtained from the website: https://archive.ics.uci.edu/ml/datasets/breast+cancer contains different types of attributes and a total of 286 entries. Some of the information about these attributes can be found at the website referenced below. For this study, only 5 of those attributes were considered, namely:
 
 The data used in this study is categorized as follows:
 
