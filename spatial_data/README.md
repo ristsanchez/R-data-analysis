@@ -11,7 +11,7 @@ New York is a great city that attracts many visitors at different time of the ye
 
 **Data Understanding**
 
-There are two different types of data used in this analysis. The Ney York borough boundaries (geographic) data, and the Airbnb data set containing all the entries. The data used in this study is obtained from the city of New York website (geographic data), and the Airbnb data was provided by Dr. Luna. The data contains information about Airbnb listing from the year 2019 in the form of a CSV file.
+There are two different types of data used in this analysis. The Ney York borough boundaries (geographic) data, and the Airbnb data set containing all the entries. The data used in this study is obtained from the city of New York website (geographic data). The data contains information about Airbnb listing from the year 2019 in the form of a CSV file.
 
 The table below outlines the respective variable names of the Airbnb date, these can be easily interpreted due to the naming convention used.
 
