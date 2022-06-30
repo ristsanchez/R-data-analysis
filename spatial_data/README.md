@@ -82,4 +82,5 @@ The Airbnb listings are concentrated in 2 main areas, Manhattan, and Brooklyn, a
 
 ![](RackMultipart20220630-1-4r1fhk_html_599e595224d26fb1.png)
 
+![Listings by borough](listings_by_borough.jpg)
 _Figure 4. Airbnb listings by borough._
