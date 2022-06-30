@@ -44,6 +44,8 @@ This is a hard part since dataset will use different names for their variables. 
 
 ![](RackMultipart20220630-1-4r1fhk_html_ac3c685cf8188fd8.png)
 
+
+![Scuffed screenshot of mapping process](mapping.jpg)
 _Figure 0.1. Finding variable names for mapping_
 
 \*Specific steps conducted in the data manipulation process can be found as comments within the R code.
