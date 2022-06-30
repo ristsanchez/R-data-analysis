@@ -34,8 +34,6 @@ The table below outlines the respective variable names of the Airbnb date, these
 | calculated\_host\_listings\_count | integer | 1 |
 | availability\_365 | integer | 365 |
 
-**\*** Highlighted in yellow is the variable used to map the data to the geographic data.
-
 **Data Preparation**
 
 The data provided by the city of New York contained the geometric boundaries of the 5 distinct boroughs respectively: Brooklyn, Manhattan, Staten Island, Queens, and Bronx.
