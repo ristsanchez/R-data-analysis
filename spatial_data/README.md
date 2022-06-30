@@ -1,5 +1,3 @@
-Assignment 4 Ricardo Sanchez
-
 Created: 10/19/21
 
 
@@ -35,8 +33,6 @@ The table below outlines the respective variable names of the Airbnb date, these
 | reviews\_per\_month | number | 0.1 |
 | calculated\_host\_listings\_count | integer | 1 |
 | availability\_365 | integer | 365 |
-
-**\*** Highlighted in yellow is the variable used to map the data to the geographic data.
 
 **Data Preparation**
 
